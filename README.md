@@ -1,4 +1,4 @@
-Projeto final do curso de Machine Learning da ADA / 
+Projeto final do curso de Machine Learning da ADA \
 Autores: /
 Alexandre Paulino
 Carolina Rutili de Lima
