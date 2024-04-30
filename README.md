@@ -4,3 +4,4 @@ Alexandre Paulino
 Carolina Rutili de Lima
 Hugo Cezar Sales de Souza
 Lucas Meirelles
+Raphael Giffoni Vieira Silva
